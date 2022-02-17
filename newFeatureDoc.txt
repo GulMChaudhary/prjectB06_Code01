@@ -1,4 +1,7 @@
 #! /bin/bash
 
+
 echo "Wel come to new file changes in master branch"
+echo "Wel come to new file changes in dev branch"
+
 
