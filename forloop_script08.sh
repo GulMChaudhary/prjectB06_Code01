@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo " some lines of code here "
+echo "test fir git some lines of code here "
 
 for i in {0..6}
 do
